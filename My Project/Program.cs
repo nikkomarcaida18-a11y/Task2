@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task2App
+namespace   DeclareThe2DArray
 {
     class Task2
     {
